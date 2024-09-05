@@ -22,6 +22,7 @@ class _MainScreenState extends State<MainScreen> {
       return nameLower.contains(queryLower) || locationLower.contains(queryLower);
     }).toList();
 
+    // return Scaffold with the filtered list of universities
     return Scaffold(
       appBar: AppBar(
         title: const Text(
