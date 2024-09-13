@@ -1,16 +1,34 @@
-# famous_university
+# 🌟 Aplikasi Daftar Universitas 🌟
 
-A new Flutter project.
+Aplikasi Flutter ini menampilkan daftar universitas ternama dengan gambar dan informasi singkat. Temukan universitas yang menarik dengan tampilan yang menyenangkan!
 
-## Getting Started
+## 🚀 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- 📚 **Daftar Universitas**: Lihat daftar universitas terkemuka dengan gambar.
+- 🔍 **Detail Universitas**: Melihat informasi rinci tentang universitas saat dipilih.
+- 🔄 **Responsif**: Tampilan responsif untuk perangkat mobile dan desktop.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tampilan aplikasi:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](assets/images/University.png)
+
+## ✨ Menambahkan Data
+
+Untuk menambahkan universitas:
+
+1. Edit file `lib/model/university.dart` dan tambahkan data universitas baru.
+2. Tempatkan gambar di folder `assets/images/`.
+
+## 📈 Status
+
+[![Last Commit](https://img.shields.io/github/last-commit/alezunazikri/FamousUniversityApp)](https://github.com/alezunazikri/FamousUniversityApp/commits/main)
+
+## 📬 Kontak
+
+Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi saya di [email@example.com](mailto:pohanzikri2@gmail.com).
+
+---
+
+Terima kasih telah menggunakan aplikasi Daftar Universitas! 🌟
