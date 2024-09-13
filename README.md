@@ -8,7 +8,7 @@ Aplikasi Flutter ini menampilkan daftar universitas ternama dengan gambar dan in
 - 🔍 **Detail Universitas**: Melihat informasi rinci tentang universitas saat dipilih.
 - 🔄 **Responsif**: Tampilan responsif untuk perangkat mobile dan desktop.
 
-## 📸 Screenshot
+## 📸 Tampilan
 
 Tampilan aplikasi:
 
